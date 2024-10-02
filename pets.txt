@@ -1,2 +1,4 @@
 Rio
 Coco
+Gizmo
+Claws
